@@ -49,7 +49,12 @@ A snippets manager must not only provide organization of snippets but also have 
 
 ## Add description
 
+## Light Theme
 ![alt text](https://github.com/zbahadir/massCode-With-descriptions/blob/master/massCode.png)
+
+## Dark theme
+
+![alt text](https://github.com/zbahadir/massCode-With-descriptions/blob/master/massCode_dark.png)
 
 ## Development
 
