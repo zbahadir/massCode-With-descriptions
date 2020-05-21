@@ -74,4 +74,3 @@ yarn build
 Copyright (c) 2019-present, Anton Reshetov."# massCode-With-descriptions" 
 "# massCode-With-descriptions" 
 "# massCode-With-descriptions" 
-"# massCode-With-descriptions" 
