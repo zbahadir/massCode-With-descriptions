@@ -392,7 +392,7 @@ export default {
   // overflow: hidden;
   textarea{
     width:100%; 
-    border:solid 1px #eee;
+    border:solid 1px #525252;
     padding: 5px; 
     // margin:5px
   }
